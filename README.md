@@ -1,0 +1,2 @@
+# FlyCommand
+command fly
